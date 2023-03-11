@@ -1,0 +1,8 @@
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\bin\Debug\PracticaTienda.exe.config
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\bin\Debug\PracticaTienda.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\bin\Debug\PracticaTienda.pdb
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\obj\Debug\PracticaTienda.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\obj\Debug\PracticaTienda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\obj\Debug\PracticaTienda.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\obj\Debug\PracticaTienda.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaTienda\obj\Debug\PracticaTienda.pdb
